@@ -9,3 +9,9 @@
 *  Segundo
 *  Tercero
 
+# Encabezado primer nivel
+## Encabezado segundo
+### Tercero
+#### Cuarto
+##### Quinto
+###### Sexto
